@@ -13,7 +13,7 @@ Jetpack Compose ile yapılmış basit bir profil kartı tasarımı.
 ## 🖼️ Ekran Görüntüsü
 
 <p align="center">
-  <img src="screenshots/screenshot_1.png" width="250" />
+  <img src="screenshots/screenshot1.png" width="250" />
 </p>
 
 ## 🛠️ Kullanılan Teknolojiler
